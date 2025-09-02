@@ -1,6 +1,6 @@
 import React from "react";
 import "./ProfileCard.css"; // we'll add styles here
-import profileImg from "./assets/cake.png";
+import profileImg from "./assets/tanisha-pic.jpeg";
 
 const ProfileCard = () => {
   return (

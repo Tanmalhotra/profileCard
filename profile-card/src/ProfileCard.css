@@ -1,4 +1,5 @@
 .profile-card {
+  margin-top: 15px;
   max-width: 340px;
   padding: 1.5rem;
   border: 1px solid #e5e7eb; /* light gray border */
@@ -10,7 +11,7 @@
 }
 .main{
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
 .profile-image {
   width: 150px;
@@ -23,7 +24,7 @@
 
 .profile-name {
   font-size: 1.25rem;
-  margin: 0.5rem 0;
+  margin: 0.25rem 0;
 }
 
 .profile-title {
@@ -35,7 +36,7 @@
 .profile-description {
   font-size: 0.85rem;
   color: #4b5563; /* gray-600 */
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 /* flexbox for social links */
